@@ -4,6 +4,9 @@ for a in range(1,11):   # a will be valuated from 1 to 10
     print("Hi")
     print(a)
 
+    
+# List Comprehensions
+
 even_numbers = [x for x in range(1,100) if x%2 == 0]
 print(even_numbers)
 odd_numbers = [x for x in range(1,100) if x%2 != 0]
