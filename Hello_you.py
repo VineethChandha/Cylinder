@@ -1,4 +1,4 @@
-# Project - 2 Hello You! and some basics
+# PY.01.02 Project - 2 Hello You! and some basics
 # Introduces Input function 
 #The input function always tends to be a string (str) irrespective of data type given.
 
