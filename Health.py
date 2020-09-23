@@ -1,4 +1,4 @@
-# Project 1 - crafting a health portion
+# PY.01.01 Project 1 - crafting a health portion
 #Description : Gives a random health score by using predefined random function 
 import random
 health = 50
