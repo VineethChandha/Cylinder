@@ -1,4 +1,4 @@
-# Project - 3 Email Slicer
+# PY.01.04 Project - 3 Email Slicer
 # Description: Slices the mail according to the requires format
 #Variable[start:end:step]
 #Variable[::-1](to reverse the string)
