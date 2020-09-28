@@ -1,4 +1,4 @@
-#This is a program to introduce the Finctions concept and using it created a string reverse program
+#PY.01.12 This is a program to introduce the Finctions concept and using it created a string reverse program
 
 text=input("enter the name to get the reverse name: ").strip().lower()
 def rev(x):
