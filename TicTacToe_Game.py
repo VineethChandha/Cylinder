@@ -1,4 +1,4 @@
-#Project 8: Tic Tac Toe Game
+#PY.01.15 Project 8: Tic Tac Toe Game
 #Description: It is a 2 player game where X and O are two persons symbols used to fill the board
 #              If one of the person fills the board in such a way his/her symbol forms a straight line or a
 #              daigonal he will be the winner
