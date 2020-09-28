@@ -1,4 +1,4 @@
-# introduction to the loops
+# PY.01.10 introduction to the loops
 
 for a in range(1,11):   # a will be valuated from 1 to 10   
     print("Hi")
