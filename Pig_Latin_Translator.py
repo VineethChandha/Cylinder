@@ -1,4 +1,4 @@
-#PY.01.10 Project 7:Pig Latin Translator
+#PY.01.11 Project 7:Pig Latin Translator
 #Description: pig latin is a text coding here word starting with vowel will be just added with
 #             yay in the end where as word starting with consonents will be changed as this boy --> oybay
 
